@@ -18,5 +18,6 @@ let num2 = 20 * 2;
 let num3 = 50 - 11;
 
 // Creating full string displaying message and lock combo
-let x = message + " " + num1 + "-" + num2 + "-" + num3;
+let x = message + " " + num1 + " - " + num2 + " - " + num3;
 console.log(x);
+alert(x);
