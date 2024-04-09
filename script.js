@@ -18,4 +18,4 @@ let num2 = 20 * 2;
 let num3 = 50 - 11;
 
 let x = message + " " + num1 + "-" + num2 + "-" + num3;
-alert(x);
+console.log(x);
