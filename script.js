@@ -6,10 +6,11 @@ Pseudocode
 4. Create an html file to display the javascript code
 5. Concatenate the welcoming string along with the three variables that make up the combo
 6. Print out the contatenated string to the console.
-*/ 
+*/
 
 // Creating welcome message string
-let message = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
+let message =
+  "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
 // Creating variable for combo number 1
 let num1 = 3 + 7;
 // Creating variable for combo number 2
