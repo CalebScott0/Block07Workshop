@@ -10,12 +10,13 @@ Pseudocode
 
 // Creating welcome message string
 let message = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
-// creating variable for combo number 1
+// Creating variable for combo number 1
 let num1 = 3 + 7;
-// creating variable for combo number 2
+// Creating variable for combo number 2
 let num2 = 20 * 2;
-// creating variable for combo number 3
+// Creating variable for combo number 3
 let num3 = 50 - 11;
 
+// Creating full string displaying message and lock combo
 let x = message + " " + num1 + "-" + num2 + "-" + num3;
 console.log(x);
